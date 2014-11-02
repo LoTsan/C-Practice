@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	//请求内存空间
+	//请求内存空间 
 	int* pAge = new int; 
 	
 	//使用这片内存空间去存储一个值
